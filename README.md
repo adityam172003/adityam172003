@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Mahajan</h1>
 <h3 align="center">A passionate Web and Java developer</h3>
 
+<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1jq9e5XWhkX56lpRVv1Pvr&ust=1697982791794000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCu6fqkh4IDFQAAAAAdAAAAABAE">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya172003&label=Profile%20views&color=0e75b6&style=flat" alt="aditya172003" /> </p>
 
 - 🌱 I’m currently learning **Spring the Java framework**
