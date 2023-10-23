@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring the Java framework**
 
-- 💬 Ask me about **NodeJs ExpressJs Java J2EE SQL MongoDB JavaScript React DSA**
+- 💬 Ask me about **NodeJs, ExpressJs, Java, J2EE, SQL, MongoDB, JavaScript, React, DSA**
 
 - 📫 How to reach me **adityam172003@gmail.com**
 
